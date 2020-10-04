@@ -1,5 +1,4 @@
 [URL Rewrite]
-^(http|https):\/\/(www.)?google\.com https://www.google.com 302
 ^(http|https):\/\/(www.)?google\.ad https://www.google.com 302
 ^(http|https):\/\/(www.)?google\.ae https://www.google.com 302
 ^(http|https):\/\/(www.)?google\.com\.af https://www.google.com 302
