@@ -1,0 +1,26 @@
+#XXX pt站
+#部分可直连，大部分直连不稳定，建议使用自建节点，避免被错判
+#Pornbay
+DOMAIN-SUFFIX,pornbay.org
+
+#Gaytorrent
+DOMAIN-SUFFIX,gaytorrent.ru
+
+#kufirc
+DOMAIN-SUFFIX,kufirc.com
+
+#PussyTorrents
+DOMAIN-SUFFIX,pussytorrents.org
+
+#CherryKiss
+DOMAIN-SUFFIX,cherrykiss.org
+
+
+#nicept
+DOMAIN-SUFFIX,nicept.net
+
+#femdomcult可直连
+DOMAIN-SUFFIX,femdomcult.org
+
+#cheggit
+DOMAIN-SUFFIX,cheggit.me
